@@ -16,6 +16,7 @@ import 'virtual:windi-devtools'
 
 import ElementPlus from "element-plus";
 import 'element-plus/dist/index.css';
+import './styles/element-plus.css'
 
 const routes = setupLayouts(generatedRoutes)
 

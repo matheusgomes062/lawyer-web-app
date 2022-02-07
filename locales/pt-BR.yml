@@ -3,6 +3,11 @@ button:
   back: Voltar
   go: Ir
   home: Início
+  about-us: Sobre nós
+  areas-of-expertise: Áreas de atuação
+  publications: Publicações
+  faq: Perguntas Frequentes
+  contact: Contato
   toggle_dark: Alternar modo escuro
   toggle_langs: Mudar de idioma
 intro:
